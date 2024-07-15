@@ -1,0 +1,22 @@
+{
+  "targets": [
+    {
+      "url": "https://example.com",
+      "selectors": {
+        "title": "head > title",
+        "description": "meta[name='description']"
+      },
+      "schedule": "*/5 * * * *",
+      "schedule_description": "Every 5 minutes"
+    },
+    {
+      "url": "https://example2.com",
+      "selectors": {
+        "header": "header",
+        "mainContent": "div.main"
+      },
+      "schedule": "0 * * * *",
+      "schedule_description": "Every hour"
+    }
+  ]
+}
