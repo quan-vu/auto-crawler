@@ -4,6 +4,7 @@ const cheerio = require('cheerio');
 const schedule = require('node-schedule');
 
 const DATA_DIR = 'src/data';
+const RESULT_DIR = 'src/results';
 
 async function crawl(target) {
   try {
@@ -24,6 +25,21 @@ async function crawl(target) {
 
     // Output the extracted data (or store it as needed)
     console.log(`Data from ${url}:`, data);
+    const result = {
+      url,
+      data,
+      timestamp: new Date().toISOString()
+    };
+    // Append result to results.json
+    let results = [];
+    const resultFile = `${RESULT_DIR}/results.json`;
+    if (fs.existsSync(resultFile)) {
+      results = JSON.parse(fs.readFileSync(resultFile, 'utf-8'));
+    }
+    results.push(result);
+    fs.writeFileSync(resultFile, JSON.stringify(results, null, 2));
+
+    console.log(`Data from ${url} stored at ${result.timestamp}`);
   } catch (error) {
     console.error(`Error crawling ${target.url}:`, error);
   }
