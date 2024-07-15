@@ -1,0 +1,17 @@
+{
+  "targets": [
+    {
+      "url": "https://sjc.com.vn/giavang/textContent.php", 
+      "selectors": {
+        "updateTime": "div.w350.m5l.float_left.red_text.bg_white",
+        "unit": "div.float_left.ylo_text[style='font-size:26px']",
+        "count": "tr",
+        "price_type": "br bb ylo2_text p12",
+        "price_buy": "tr:contains('SJC 5c') td:nth-child(2) span",
+        "price_sell": "tr:contains('SJC 5c') td:nth-child(3) span" 
+      },
+      "schedule": "*/2 * * * *",
+      "schedule_description": "Every 2 minutes"
+    }
+  ]
+}

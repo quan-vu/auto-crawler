@@ -1,6 +1,7 @@
 {
 	"scripts": {
-		"start": "node src/crawler.js"
+		"start": "node src/crawler.js",
+		"start:sjc": "node src/crawler.sjc.js"
 	},
 	"dependencies": {
 		"axios": "^1.7.2",

@@ -6,5 +6,168 @@
       "description": ""
     },
     "timestamp": "2024-07-15T08:55:01.212Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:00:01.175Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:05:01.384Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:10:01.190Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:15:01.127Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:20:01.090Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:25:01.200Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:30:01.188Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:35:01.253Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:40:01.210Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:45:01.277Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:50:01.226Z"
+  },
+  {
+    "url": "https://sjc.com.vn/giavang/textContent.php",
+    "data": {
+      "updateTime": "08:32:34 AM 15/07/2024",
+      "unit": "Đơn vị tính: VNĐ/lượng",
+      "price_type": "",
+      "price_buy": "75,480,000",
+      "price_sell": "77,000,000"
+    },
+    "timestamp": "2024-07-15T09:55:00.462Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T09:55:01.202Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:00:01.178Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:05:01.409Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:10:01.141Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:15:01.099Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:20:01.248Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:25:01.280Z"
+  },
+  {
+    "url": "https://example.com",
+    "data": {
+      "title": "Example Domain",
+      "description": ""
+    },
+    "timestamp": "2024-07-15T10:30:01.154Z"
   }
 ]
